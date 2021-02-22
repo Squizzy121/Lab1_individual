@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\UNIVER\C# projects\2 курс\lab1_individual\bin\Debug\lab1_individual.exe.config
+C:\Users\Admin\Desktop\UNIVER\C# projects\2 курс\lab1_individual\bin\Debug\lab1_individual.exe
+C:\Users\Admin\Desktop\UNIVER\C# projects\2 курс\lab1_individual\bin\Debug\lab1_individual.pdb
+C:\Users\Admin\Desktop\UNIVER\C# projects\2 курс\lab1_individual\obj\Debug\lab1_individual.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\UNIVER\C# projects\2 курс\lab1_individual\obj\Debug\lab1_individual.Form1.resources
+C:\Users\Admin\Desktop\UNIVER\C# projects\2 курс\lab1_individual\obj\Debug\lab1_individual.Properties.Resources.resources
+C:\Users\Admin\Desktop\UNIVER\C# projects\2 курс\lab1_individual\obj\Debug\lab1_individual.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\UNIVER\C# projects\2 курс\lab1_individual\obj\Debug\lab1_individual.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\UNIVER\C# projects\2 курс\lab1_individual\obj\Debug\lab1_individual.exe
+C:\Users\Admin\Desktop\UNIVER\C# projects\2 курс\lab1_individual\obj\Debug\lab1_individual.pdb
